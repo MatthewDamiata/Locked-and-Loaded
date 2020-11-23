@@ -1,0 +1,9 @@
+{
+  "LockedAndLoaded:Awakening": {
+    "NAME": "Awakening",
+    "DESCRIPTION": [
+      "#yPassive: At the start of your turn, apply #b1 #yLock-On, #yVulnerable and #yWeak to ALL enemies.",
+      " NL #yEvoke: At the start of your turn, apply #b2 #yLock-On, #yVulnerable and #yWeak to ALL enemies."
+    ]
+  }
+}

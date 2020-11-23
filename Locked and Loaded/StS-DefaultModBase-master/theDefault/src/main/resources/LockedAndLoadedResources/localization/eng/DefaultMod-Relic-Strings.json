@@ -1,0 +1,34 @@
+{
+  "LockedAndLoaded:Threadripper": {
+    "NAME": "Threadripper",
+    "FLAVOR": "An additional processing unit with an unusual glow.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, apply #b1 #yLock-On to ALL enemies."
+    ]
+  },
+  "LockedAndLoaded:MaleficShard": {
+    "NAME": "Malefic Shard",
+    "FLAVOR": "A lot of bad can do a lot of good.",
+    "DESCRIPTIONS": [
+      "Enemies with #yLock-On take 75% more damage rather than 50%."
+    ]
+  },
+  "LockedAndLoaded:DefaultClickableRelic": {
+    "NAME": "Right-Clicky Relic",
+    "FLAVOR": "The more you right-click it, the more orbs you've evoked in your lifetime.",
+    "DESCRIPTIONS": [
+      "[#2aecd7]Usable [#2aecd7]once [#2aecd7]per [#2aecd7]turn.[] NL #yEvoke your rightmost Orb.",
+      "YOU ARE MINE!"
+    ]
+  },
+  "LockedAndLoaded:BottledPlaceholderRelic": {
+    "NAME": "Bottled Placeholder",
+    "FLAVOR": "What is this?",
+    "DESCRIPTIONS": [
+      "Choose a card. Whenever you take play any card, draw the chosen card.",
+      "Whenever you play a card, draw ",
+      ".",
+      "Select a card to bottle for "
+    ]
+  }
+}

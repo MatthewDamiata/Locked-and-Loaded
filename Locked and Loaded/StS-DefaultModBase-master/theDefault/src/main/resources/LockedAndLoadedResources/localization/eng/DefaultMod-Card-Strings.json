@@ -1,0 +1,56 @@
+{
+  "LockedAndLoaded:DefaultCommonAttack": {
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! Damage. NL [#0000ff]This[] [#ff0000]Is[] [#ffff00]How[] [#88888]color[] [#ff00ff]works.[]"
+  },
+  "LockedAndLoaded:Virus": {
+    "NAME": "Virus",
+    "DESCRIPTION": "Channel 1 Awakening."
+  },
+  "LockedAndLoaded:DefaultCommonPower": {
+    "NAME": "Hold Place",
+    "DESCRIPTION": "Gain !M! LockedAndLoaded:Keyword.",
+    "UPGRADE_DESCRIPTION": "Gain !M! LockedAndLoaded:Keywords."
+  },
+  "LockedAndLoaded:Firewall": {
+    "NAME": "Firewall",
+    "DESCRIPTION": "If the enemy intends to attack, apply !M! Lock-On and Channel 1 Awakening.",
+    "UPGRADE_DESCRIPTION": "If the enemy intends to attack, apply !M! Lock-On and Channel 1 Awakening."
+  },
+  "LockedAndLoaded:Multithreaded": {
+    "NAME": "Multithreaded",
+    "DESCRIPTION": "Evoke your next orb. NL If any enemy has Lock-On, Channel !M! of the Orb that was Evoked.",
+    "UPGRADE_DESCRIPTION": "Evoke your next orb. NL If any enemy has Lock-On, Channel !M! of the Orb that was Evoked."
+  },
+  "LockedAndLoaded:DefaultUncommonPower": {
+    "NAME": "Weirdness",
+    "DESCRIPTION": "Gain X LockedAndLoaded:Keywords.",
+    "UPGRADE_DESCRIPTION": "Gain X +1 LockedAndLoaded:Keywords."
+  },
+  "LockedAndLoaded:Surge": {
+    "NAME": "Surge",
+    "DESCRIPTION": "Deal !D! damage. NL Apply 1 Lock-On.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Apply 1 Lock-On."
+  },
+  "LockedAndLoaded:Superscalar": {
+    "NAME": "Superscalar",
+    "DESCRIPTION": "Apply !M! Lock-On to ALL enemies.",
+    "UPGRADE_DESCRIPTION": "Apply !M! Lock-On to ALL enemies."
+  },
+  "LockedAndLoaded:Singularity": {
+    "NAME": "Singularity",
+    "DESCRIPTION": "Awakening orbs now make enemies lose Strength."
+  },
+  "LockedAndLoaded:DefaultAttackWithVariable": {
+    "NAME": "Special Strike",
+    "DESCRIPTION": "Deal !D! Damage [E] times. NL (Deal !LockedAndLoaded:ENERGY_DAMAGE! damage total.)"
+  },
+  "LockedAndLoaded:DefaultSecondMagicNumberSkill": {
+    "NAME": "Cool 2 Number Card",
+    "DESCRIPTION": "Apply !M! vulnerable and !LockedAndLoaded:SecondMagic! poison to an enemy."
+  },
+  "LockedAndLoaded:OrbSkill": {
+    "NAME": "Get Orb",
+    "DESCRIPTION": "Channel 1 Default Orb."
+  }
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "AWAKENING": [
+      "awakening",
+      "awakening+"
+    ],
+    "DESCRIPTION": "Orb: Apply #yLock-On, #yVulnerable and #yWeak to ALL enemies."
+  },
+  {
+    "PROPER_NAME": "Multiword Keyword",
+    "NAMES": [
+      "Multiword Keyword",
+      "multiword_keyword",
+      "multiword_keywords",
+      "multikey",
+      "multikeyword"
+    ],
+    "DESCRIPTION": "Make sure the first element in the NAMES is the same as your PROPER_NAME. The rest is to match keywords like the single word keyword."
+  }
+]

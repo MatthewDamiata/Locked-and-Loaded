@@ -3,7 +3,7 @@
 ***
 ## Project Description
 
-Locked and Loaded is a context expansion mod for the popular game [Slay the Spire](https://store.steampowered.com/app/646570/Slay_the_Spire/). This mod adds new cards, potions, relics and orbs focused on the underused Lock-On mechanic for the character The Defect. The creation of this mod was facilitated by [BaseMod](https://github.com/daviscook477/BaseMod), [Mod The Spire](https://github.com/kiooeht/ModTheSpire), and [StSLib](https://github.com/kiooeht/StSLib). To avoid distributing the game and keep the mod encapsulated, there are several patches within the mod that inject code into the base game's jar, so you still must own the game to use this mod.
+Locked and Loaded is a content expansion mod for the popular game [Slay the Spire](https://store.steampowered.com/app/646570/Slay_the_Spire/). This mod adds new cards, potions, relics and orbs focused on the underused Lock-On mechanic for the character The Defect. The creation of this mod was facilitated by [BaseMod](https://github.com/daviscook477/BaseMod), [Mod The Spire](https://github.com/kiooeht/ModTheSpire), and [StSLib](https://github.com/kiooeht/StSLib). To avoid distributing the game and keep the mod encapsulated, there are several patches within the mod that inject code into the base game's jar, so you still must own the game to use this mod.
 
 ***
 
